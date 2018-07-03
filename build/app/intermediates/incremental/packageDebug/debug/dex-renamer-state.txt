@@ -1,0 +1,4 @@
+#Thu Jun 28 16:55:58 CST 2018
+base.0=/Users/q/chargeflutter/chargeflutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
